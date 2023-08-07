@@ -161,4 +161,8 @@ cython_debug/
 
 
 # everything under folder dash_project
+# and everything under folder .vscode
 dash_project/*
+.vscode/*
+
+# 
